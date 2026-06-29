@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭MSc student in machine learning and statistics<br>⚽ I'm currently working on a +EV sports betting program in my spare time
+🔭MSc student in machine learning and statistics<br>
 
 
 <!--## 🌐 Socials:--> 
